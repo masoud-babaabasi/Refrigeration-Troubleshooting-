@@ -1,0 +1,15 @@
+Component   : 3pin connector
+PCB Library : chill_pcblib.PcbLib
+Date        : 11/11/2019
+Time        : 11:59:29 AM
+
+
+
+Dimension : 15.24 x 17.526 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 3          0        0       0        0
+ Top Overlay                 0          6        0       2        0
+--------------------------------------------------------------------
+ Total                       3          6        0       2        0
